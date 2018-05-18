@@ -50,6 +50,8 @@ private Uri imageUri;
             }
         });
 
+
+
     }
 
     @Override
